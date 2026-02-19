@@ -83,7 +83,7 @@ please down load  the <a href="https://drive.google.com/file/d/1mo9nhq9J2NLk9mGo
 <b>Drishti-Glaucoma Statistics</b><br>
 <img src ="./projects/TensorFlowFlexUNet/Drishti-Glaucoma/Drishti-Glaucoma_Statistics.png" width="512" height="auto"><br>
 <br>
-As shown above, the number of images of train and valid datasets is large enough to use for a training set of our segmentation model.
+As shown above, the number of images of train and valid datasets is not enough to use for a training set of our segmentation model.
 <br><br>
 
 <b>Train_images_sample</b><br>
