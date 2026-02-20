@@ -156,7 +156,7 @@ patience      = 10
 </pre>
 <b></b><br>
 <b>RGB color map</b><br>
-rgb color map dict for Drishti-Glaucoma 1+1 classes.<br>
+rgb color map dict for Drishti-Glaucoma 1+2 classes.<br>
 <pre>
 [mask]
 mask_file_format = ".png"
